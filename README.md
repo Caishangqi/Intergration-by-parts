@@ -1,6 +1,9 @@
 # Intergration-by-parts
 curseforge的整合包问题反馈,项目地址在这https://www.curseforge.com/minecraft/modpacks/integration-by-parts
 
+## 更新周期
+约为**2周**一次
+
 # GonerAge 服务器开发记载
 
 ## 开始前请务必阅读此文章 📕  
